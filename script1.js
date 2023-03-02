@@ -677,7 +677,7 @@ const elements = [
 		atomicNumber: 118,
 		atomicWeight: 294
 	},		
-	// Add more objects for each element in the periodic table
+	// himanshu
 ];
 
 const table = document.createElement('table');
